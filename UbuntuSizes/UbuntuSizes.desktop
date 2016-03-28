@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=UbuntuSizes
+Exec=UbuntuSizes
+Icon=UbuntuSizes/UbuntuSizes.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

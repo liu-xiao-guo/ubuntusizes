@@ -1,0 +1,15 @@
+{
+    "name": "ubuntusizes.xiaoguo",
+    "description": "description of UbuntuSizes",
+    "architecture": "@CLICK_ARCH@",
+    "title": "UbuntuSizes",
+    "hooks": {
+        "UbuntuSizes": {
+            "apparmor": "UbuntuSizes/UbuntuSizes.apparmor",
+            "desktop": "UbuntuSizes/UbuntuSizes.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
